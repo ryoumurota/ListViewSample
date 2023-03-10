@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">リスト選択サンプル</string>
+    <string-array name="lv_menu">
+        <item>Data1</item>
+        <item>Data2</item>
+        <item>Data3</item>
+        <item>Data4</item>
+        <item>Data5</item>
+        <item>Data6</item>
+        <item>Data7</item>
+        <item>Data8</item>
+        <item>Data9</item>
+        <item>Data10</item>
+        <item>Data11</item>
+        <item>Data12</item>
+        <item>Data13</item>
+        <item>Data14</item>
+        <item>Data15</item>
+        <item>Data16</item>
+        <item>Data17</item>
+        <item>Data18</item>
+        <item>Data19</item>
+        <item>Data20</item>
+        <item>Data21</item>
+        <item>Data22</item>
+        <item>Data23</item>
+        <item>Data24</item>
+        <item>Data25</item>
+        <item>Data26</item>
+        <item>Data27</item>
+        <item>Data28</item>
+        <item>Data29</item>
+
+    </string-array>
+</resources>
